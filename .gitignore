@@ -218,3 +218,15 @@ __marimo__/
 .streamlit/secrets.toml
 
 frontend/node_modules/
+.vscode/
+deploy-backend.json
+ssm-cors.json
+ssm-deploy.json
+frontend/node_modules/
+
+# Terraform generated files
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
